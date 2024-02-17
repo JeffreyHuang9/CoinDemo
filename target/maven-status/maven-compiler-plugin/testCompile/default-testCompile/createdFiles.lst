@@ -1,0 +1,3 @@
+com\example\springbootcoindesk\SpringbootCoindeskApplicationTests.class
+com\example\springbootcoindesk\controller\CoindeskControllerTest.class
+com\example\springbootcoindesk\controller\CurrencyControllerTest.class

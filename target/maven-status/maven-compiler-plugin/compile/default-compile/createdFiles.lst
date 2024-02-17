@@ -1,0 +1,16 @@
+com\example\springbootcoindesk\controller\CoindeskController.class
+com\example\springbootcoindesk\controller\CurrencyController.class
+com\example\springbootcoindesk\entity\FormatCoindeskData.class
+com\example\springbootcoindesk\repository\CurrencyRepository.class
+com\example\springbootcoindesk\service\CurrencyService.class
+com\example\springbootcoindesk\service\CoindeskService.class
+com\example\springbootcoindesk\SpringbootCoindeskApplication.class
+com\example\springbootcoindesk\entity\CoindeskData.class
+com\example\springbootcoindesk\entity\Currency.class
+com\example\springbootcoindesk\service\CoindeskServiceImpl.class
+com\example\springbootcoindesk\service\DataConversionServiceImpl.class
+com\example\springbootcoindesk\service\CurrencyServiceImpl.class
+com\example\springbootcoindesk\entity\FormatCurrencyData.class
+com\example\springbootcoindesk\service\DataConversionService.class
+com\example\springbootcoindesk\entity\UpdateTime.class
+com\example\springbootcoindesk\entity\CurrencyData.class
